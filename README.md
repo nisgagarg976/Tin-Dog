@@ -1,2 +1,1 @@
-# Tin-Dog
-Clone of Tin Dog website
+TinDog Starting Files
